@@ -1,6 +1,6 @@
 Module {
 	name: 'http_server'
-	description: 'An example of vweb http server'
+	description: 'vweb http server example'
 	version: '0.0.0'
 	license: 'MIT'
 	dependencies: []
